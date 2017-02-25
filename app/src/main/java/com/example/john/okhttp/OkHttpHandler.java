@@ -10,6 +10,7 @@ import com.squareup.okhttp.Response;
  * Created by John on 2017/2/25.
  */
 public class OkHttpHandler extends AsyncTask {
+
 OkHttpClient client = new OkHttpClient();
 
 
